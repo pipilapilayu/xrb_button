@@ -14,7 +14,7 @@
           <Btn
             class="btn"
             :name="t(INFO_I18N.vtbbtn)"
-            url="https://jq.qq.com/?_wv=1027&k=NkSw46pM"
+            url="http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=jtXO8hHdeqRvmFhjTTA1skkGSb_j92nH&authKey=RzvWJRWf5wSf7e7ygatQLZ%2FpZ1utrILln155z3X%2BMU5kdWm%2BQnDOyC6gsy2YU3v9&noverify=0&group_code=371542445"
             background="rgb(100, 181, 246)"
           />
           <template v-for="item in friendlyLinkList" :key="item.name">
@@ -53,11 +53,7 @@ export default {
     const lastDate = inject('lastDate', '')
 
     const friendlyLinkList: FriendlyLink[] = [
-      {
-        name: 'Api按钮',
-        url: 'https://www.xxapi.icu',
-        background: '#ffb2ee'
-      },
+
       {
         name: 'github投稿入口',
         url: 'https://github.com/pipilapilayu/xrb_button/issues/new?assignees=&labels=&template=----.md&title=%5B%E6%8A%95%E7%A8%BF%5D',
@@ -65,13 +61,18 @@ export default {
       },
       {
         name: '腾讯表单投稿入口',
-        url: 'https://docs.qq.com/form/page/DT2hyc3lyWFNHaGpa',
+        url: 'https://docs.qq.com/form/page/DT1NSb0JLS1l4U1Bq',
         background: 'rgb(30,111,255)'
       },
       {
         name: '邮件投稿入口',
         url: 'mailto:dys@xxapi.icu',
-        background: 'rgb(1,0,40)'
+        background: '#1c86fa'
+      },
+      {
+        name: 'Api按钮',
+        url: 'https://www.xxapi.icu',
+        background: '#ffb2ee'
       }
     ]
 
