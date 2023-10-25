@@ -1,0 +1,49 @@
+{
+  "name": {
+    "CN": {
+      "title": "小肉包按钮",
+      "memes": "小肉包表情",
+      "fullName": "小肉包按钮"
+    },
+    "JP": {
+      "title": "",
+      "memes": "",
+      "fullName": ""
+    }
+  },
+  "header": {
+    "icon": "🐱",
+    "youtube": "https://weibo.com/kinoko7",
+    "twitter": "",
+    "bilibili": "https://space.bilibili.com/67141"
+  },
+  "footer": {
+    "author": [
+      {
+        "name": "Blacktunes",
+        "url": "https://github.com/blacktunes"
+      },
+      {
+        "name": "DYS"
+      },
+      {
+        "name": "一瞬です"
+      }
+    ],
+    "info": [
+      "对于本网站有什么建议欢迎加入反馈群:<a href=\"https://jq.qq.com/?_wv=1027&k=DxgZ3kwk\">483278049</a>",
+      "语音素材持续募集中！     背景图绘：猫喜吉"
+    ],
+    "githubUrl": "https://github.com/blacktunes/kaguranana-button"
+  },
+  "console": {
+    "text": "❤xrb❤",
+    "size": "20px",
+    "color": "pink",
+    "img": "xrb.jpg",
+    "imgWidth": "10%",
+    "imgHeight": "10%"
+  },
+  "mediaSession": "xrb.jpg",
+  "GA_ID": ""
+}

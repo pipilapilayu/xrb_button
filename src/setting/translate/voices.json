@@ -1,0 +1,1085 @@
+{
+  "category": [
+    {
+      "name": "名言c",
+      "translate": {
+        "zh-CN": "名言c"
+      }
+    },
+    {
+      "name": "可爱c",
+      "translate": {
+        "zh-CN": "可爱c"
+      }
+    },
+    {
+      "name": "攻击性",
+      "translate": {
+        "zh-CN": "攻击性",
+        "ja-JP": "攻击性"
+      }
+    },
+    {
+      "name": "语气",
+      "translate": {
+        "zh-CN": "语气",
+        "ja-JP": "语气"
+      }
+    },
+    {
+      "name": "怪话c",
+      "translate": {
+        "zh-CN": "怪话c",
+        "ja-JP": "怪话c"
+      }
+    },
+    {
+      "name": "素材",
+      "translate": {
+        "zh-CN": "素材",
+        "ja-JP": "素材"
+      }
+    }
+  ],
+  "voices": [
+    {
+      "name": "14亿人中与你相遇",
+      "path": "14亿人中与你相遇.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "14亿人中与你相遇"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "C语",
+      "path": "C语.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "C语"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "gun",
+      "path": "gun.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "gun"
+      },
+      "usePicture": {
+        "zh-CN": "gun.png"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "muamua",
+      "path": "muamua.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "muamua"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "阿巴阿巴",
+      "path": "阿巴阿巴.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "阿巴阿巴"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "啊",
+      "path": "啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "啊"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "啊？",
+      "path": "啊？.mp3",
+      "date": "2023-10-26",
+      "translate": {
+      "zh-CN": "啊？"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "啊2",
+      "path": "啊2.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "啊2"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "哎！",
+      "path": "哎！.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哎！"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "哎（叹气）",
+      "path": "哎（叹气）.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哎（叹气）"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "欸嘿嘿",
+      "path": "欸嘿嘿.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "欸嘿嘿"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "拜拜拜拜",
+      "path": "拜拜拜拜.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "拜拜拜拜"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "宝贝在吗",
+      "path": "宝贝在吗.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "宝贝在吗"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "呗洛呗洛",
+      "path": "呗洛呗洛.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "呗洛呗洛"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "别跑",
+      "path": "别跑.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "别跑"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "不可以",
+      "path": "不可以.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "不可以"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "不是所有的金发双马尾都是c酱",
+      "path": "不是所有的金发双马尾都是c酱.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "不是所有的金发双马尾都是c酱"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "不要在这里发电",
+      "path": "不要在这里发电.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "不要在这里发电"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "打喷嚏",
+      "path": "打喷嚏.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "打喷嚏"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "登",
+      "path": "登.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "登"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "登登登（节奏）",
+      "path": "登登登（节奏）.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "登登登（节奏）"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "登登登登",
+      "path": "登登登登.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "登登登登"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "都忙，忙点好",
+      "path": "都忙，忙点好.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "都忙，忙点好"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "对我来说刚刚好",
+      "path": "对我来说刚刚好.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "对我来说刚刚好"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "诶？",
+      "path": "诶？.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "诶？"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "诶嘿嘿嘿",
+      "path": "诶嘿嘿嘿.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "诶嘿嘿嘿"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "发射~咻",
+      "path": "发射~咻.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "发射~咻"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "放心吧",
+      "path": "放心吧.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "放心吧"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "搞错了搞错了",
+      "path": "搞错了搞错了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "搞错了搞错了"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "给你吃",
+      "path": "给你吃.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "给你吃"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "怪东西什么怪东西",
+      "path": "怪东西什么怪东西.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "怪东西什么怪东西"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "滚出我的电脑",
+      "path": "滚出我的电脑.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "滚出我的电脑"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "害羞羞",
+      "path": "害羞羞.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "害羞羞"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "好吃",
+      "path": "好吃.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "好吃"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "好虐啊",
+      "path": "好虐啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "好虐啊"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "嘿咻",
+      "path": "嘿咻.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "嘿咻"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "很敷衍",
+      "path": "很敷衍.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "很敷衍"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "很可爱很可爱",
+      "path": "很可爱很可爱.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "很可爱很可爱"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "哼歌",
+      "path": "哼歌.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哼歌"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "哼歌2",
+      "path": "哼歌2.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哼歌2"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "回家咯",
+      "path": "回家咯.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "回家咯"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "就是它啦",
+      "path": "就是它啦.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "就是它啦"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "来咯",
+      "path": "来咯.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "来咯"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "两眼一黑",
+      "path": "两眼一黑.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "两眼一黑"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "么么么么",
+      "path": "么么么么.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "么么么么"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "哪来的鬼啊",
+      "path": "哪来的鬼啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哪来的鬼啊"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "那就这样决定啦",
+      "path": "那就这样决定啦.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "那就这样决定啦"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "那我们一起走吧",
+      "path": "那我们一起走吧.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "那我们一起走吧"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "纳尼",
+      "path": "纳尼.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "纳尼"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "难道你们没有自己的id吗",
+      "path": "难道你们没有自己的id吗.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "难道你们没有自己的id吗"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你比c酱更懂c酱（打窝）",
+      "path": "你比c酱更懂c酱（打窝）.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你比c酱更懂c酱（打窝）"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你们发现一个问题没有",
+      "path": "你们发现一个问题没有.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你们发现一个问题没有"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "你谁啊你谁啊",
+      "path": "你谁啊你谁啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你谁啊你谁啊"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你是个善良的人我会记住你的名字的",
+      "path": "你是个善良的人我会记住你的名字的.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你是个善良的人我会记住你的名字的"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "你现在想起来自己是谁啦",
+      "path": "你现在想起来自己是谁啦.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你现在想起来自己是谁啦"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你要负责爱我一辈子哦",
+      "path": "你要负责爱我一辈子哦.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你要负责爱我一辈子哦"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "你这个红茶不会晕吧",
+      "path": "你这个红茶不会晕吧.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你这个红茶不会晕吧"
+      },
+      "category": "怪话c"
+    },
+    {
+      "name": "你这人还真是说变就变",
+      "path": "你这人还真是说变就变.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你这人还真是说变就变"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你真的很奇怪",
+      "path": "你真的很奇怪.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你真的很奇怪"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你真好看",
+      "path": "你真好看.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "你真好看"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "牛牛长得好别致",
+      "path": "牛牛长得好别致.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "牛牛长得好别致"
+      },
+      "category": "怪话c"
+    },
+    {
+      "name": "噢噜噢噜",
+      "path": "噢噜噢噜.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "噢噜噢噜"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "请问你谁啊",
+      "path": "请问你谁啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "请问你谁啊"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "去看看",
+      "path": "去看看.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "去看看"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "拳头硬了",
+      "path": "拳头硬了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "拳头硬了"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "人生都是要重新开始的",
+      "path": "人生都是要重新开始的.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "人生都是要重新开始的"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "日你奶奶个腿日v",
+      "path": "日你奶奶个腿日v.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "日你奶奶个腿日v"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "上一次说这话的人",
+      "path": "上一次说这话的人.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "上一次说这话的人"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "是不是还挺可爱的",
+      "path": "是不是还挺可爱的.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "是不是还挺可爱的"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "收菜收菜",
+      "path": "收菜收菜.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "收菜收菜"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "虽然很幼稚但对于我来说刚刚好",
+      "path": "虽然很幼稚但对于我来说刚刚好.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "虽然很幼稚但对于我来说刚刚好"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "他说我是女粉哎 恶心",
+      "path": "他说我是女粉哎 恶心.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "他说我是女粉哎 恶心"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "它谁啊",
+      "path": "它谁啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "它谁啊"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "太弱智了",
+      "path": "太弱智了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "太弱智了"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "偷吃",
+      "path": "偷吃.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "偷吃"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "吐舌头",
+      "path": "吐舌头.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "吐舌头"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "哇",
+      "path": "哇.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哇"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "哇2",
+      "path": "哇2.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "哇2"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "玩的真开心啊",
+      "path": "玩的真开心啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "玩的真开心啊"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "万一是真的呢，怎么可能想多了吧",
+      "path": "万一是真的呢，怎么可能想多了吧.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "万一是真的呢，怎么可能想多了吧"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "翁的一声哭了出来",
+      "path": "翁的一声哭了出来.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "翁的一声哭了出来"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "喔~",
+      "path": "喔~.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "喔~"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "我的回合",
+      "path": "我的回合.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我的回合"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "我感觉内心获得了平静",
+      "path": "我感觉内心获得了平静.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我感觉内心获得了平静"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "我感觉我的精神被治愈了",
+      "path": "我感觉我的精神被治愈了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我感觉我的精神被治愈了"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "我感觉自己变可爱了",
+      "path": "我感觉自己变可爱了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我感觉自己变可爱了"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "我好了",
+      "path": "我好了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我好了"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "我看谁先蚌埠住",
+      "path": "我看谁先蚌埠住.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我看谁先蚌埠住"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "我看有没有漂亮妹妹",
+      "path": "我看有没有漂亮妹妹.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我看有没有漂亮妹妹"
+      },
+      "category": "怪话c"
+    },
+    {
+      "name": "我们玩的是一个游戏吗",
+      "path": "我们玩的是一个游戏吗.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我们玩的是一个游戏吗"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "我去看一眼",
+      "path": "我去看一眼.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我去看一眼"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "我要染发",
+      "path": "我要染发.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我要染发"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "我也要",
+      "path": "我也要.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "我也要"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "芜~",
+      "path": "芜~.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "芜~"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "希望你对你自己也是这种态度",
+      "path": "希望你对你自己也是这种态度.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "希望你对你自己也是这种态度"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "洗澡澡",
+      "path": "洗澡澡.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "洗澡澡"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "想不出来",
+      "path": "想不出来.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "想不出来"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "小肉包好吃吗",
+      "path": "小肉包好吃吗.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "小肉包好吃吗"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "小肉包闹钟",
+      "path": "小肉包闹钟.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "小肉包闹钟"
+      },
+      "category": "怪话c"
+    },
+    {
+      "name": "笑",
+      "path": "笑.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "笑"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "咦？",
+      "path": "咦？.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "咦？"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "有一说一",
+      "path": "有一说一.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "有一说一"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "再扔我我要哭了",
+      "path": "再扔我我要哭了.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "再扔我我要哭了"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "怎么回事",
+      "path": "怎么回事.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "怎么回事"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "怎么回事你在说什么",
+      "path": "怎么回事你在说什么.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "怎么回事你在说什么"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "怎么回事怎么回事啊",
+      "path": "怎么回事怎么回事啊.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "怎么回事怎么回事啊"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "这个",
+      "path": "这个.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "这个"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "这什么（笑）",
+      "path": "这什么（笑）.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "这什么（笑）"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "这什么",
+      "path": "这什么.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "这什么"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "这是我家",
+      "path": "这是我家.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "这是我家"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "直男浪漫石",
+      "path": "直男浪漫石.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "直男浪漫石"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "祝你玩的开心",
+      "path": "祝你玩的开心.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "祝你玩的开心"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "叹气",
+      "path": "叹气.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "叹气"
+      },
+      "category": "语气",
+      "mark": {
+        "title": "【钓鱼pi】小肉包：猫猫只会指引我氪金 我再也不上当了",
+        "time": "11:17",
+        "url": "https://www.bilibili.com/video/BV1Dy4y1P7bM/?share_source=copy_web&vd_source=f4e669ce19d44e44eef5c421e4049ef7&t=677"
+      }
+    },
+      {
+      "name": "杂口杂口",
+      "path": "杂口杂口.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "杂口杂口"
+      },
+      "category": "可爱c",
+      "mark": {
+        "title": "【枕头就没干过】",
+        "time": "8:05",
+        "url": "https://www.bilibili.com/video/BV1sQ4y1W7MJ/?share_source=copy_web&vd_source=f4e669ce19d44e44eef5c421e4049ef7&t=485"
+      }
+      }
+  ]
+}
