@@ -14,19 +14,15 @@
      <!-- 上方为网页特效 -->
      <title>小肉包按钮</title>
      <!-- Global site tag (gtag.js) - Google Analytics -->
-<!--下方为google统计接入（目前暂未接入）-->
-    <!--
-      <script async src="https://www.googletagmanager.com/gtag/js?id=G-TCEE5WJHV5"></script>
-    -->
-      <!--
+<!--下方为google统计接入-->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-XFVLS8NZ17"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-TCEE5WJHV5')
+  gtag('config', 'G-XFVLS8NZ17')
 </script>
-      -->
      <!-- 接入百度统计（康康能有多少人发现这个网站） -->
 <!--<script type="text/javascript">
   var _hmt = _hmt || [];
@@ -38,8 +34,10 @@
    })();
   </script>-->
      <!-- 评论系统初始化！ -->
-      <script src='//unpkg.com/@waline/client@v2/dist/waline.js'></script>
-      <link href='//unpkg.com/@waline/client@v2/dist/waline.css' rel='stylesheet' />
+      <link
+              rel="stylesheet"
+              href="https://unpkg.com/@waline/client@v2/dist/waline.css"
+      />
      <!--以下为测试内容-->
      <style>
 
@@ -259,12 +257,17 @@
            </div>
        </div>
      <div id="waline"></div>
-     <script>
-         Waline.init({
-         el: '#waline',
-         serverURL: 'xrb-waline.vercel.app',
-       });
+     <script type="module">
+         import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
+
+         init({
+             el: '#waline',
+             pageview: true, // 浏览量统计
+             serverURL: 'https://xrb-waline.vercel.app',
+         });
      </script>
+     当前页浏览量为:
+     <span class="waline-pageview-count" data-path="/index.html" />
    </body>
    <style lang="scss">
 
