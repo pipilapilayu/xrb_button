@@ -1,6 +1,6 @@
 # xrb按钮 / xrb BUTTON
 
-##### 项目地址: https://www.xxxrb.icu/
+##### 项目地址: https://www.xrb.icu/
 
 本项目基于 https://github.com/blacktunes/kaguranana-button
 与 https://github.com/pipilapilayu/Api_button
