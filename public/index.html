@@ -259,7 +259,10 @@
      <div id="waline"></div>
      <script type="module">
          import { init } from 'https://unpkg.com/@waline/client@v2/dist/waline.mjs';
-
+         const locale = {
+             admin: '站长',
+             reactionTitle: '您认为本站怎么样？',
+         };
          init({
              el: '#waline',
              pageview: true, // 浏览量统计
@@ -269,10 +272,12 @@
                  'https://unpkg.com/@waline/emojis@1.2.0/bmoji',
                  'https://unpkg.com/@waline/emojis@1.2.0/bilibili',
              ],
+             reaction: true, // 开启反应
+             locale,
          });
      </script>
-     当前页浏览量为:
-     <span class="waline-pageview-count" data-path="/index.html" />
+     按钮站当前浏览量为:<span class="waline-pageview-count" data-path="/"></span>
+     表情站当前浏览量为：<span class="waline-pageview-count" data-path="/memes"></span>
    </body>
    <style lang="scss">
 
