@@ -93,9 +93,10 @@ a
 .index
   margin 0 auto
   width 100%
-  background-image url('../assets/image/xrb_background.jpg')
+  background-image linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/image/xrb_background.jpg')
   background-position center center
   background-size cover
+
   .content
     display flex
     flex-wrap wrap
