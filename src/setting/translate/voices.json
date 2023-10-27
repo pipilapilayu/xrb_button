@@ -39,6 +39,13 @@
         "zh-CN": "素材",
         "ja-JP": "素材"
       }
+    },
+    {
+      "name": "偷偷磕",
+      "translate": {
+        "zh-CN": "偷偷磕",
+        "ja-JP": "偷偷磕"
+      }
     }
   ],
   "voices": [
@@ -1052,6 +1059,15 @@
         "zh-CN": "祝你玩的开心"
       },
       "category": "可爱c"
+    },
+    {
+      "name": "cp-test",
+      "path": "祝你玩的开心.mp3",
+      "date": "2023-10-26",
+      "translate": {
+        "zh-CN": "偷偷磕"
+      },
+      "category": "偷偷磕"
     },
     {
       "name": "叹气",
