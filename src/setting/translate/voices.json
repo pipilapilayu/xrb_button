@@ -1096,6 +1096,249 @@
         "time": "8:05",
         "url": "https://www.bilibili.com/video/BV1sQ4y1W7MJ/?share_source=copy_web&vd_source=f4e669ce19d44e44eef5c421e4049ef7&t=485"
       }
-      }
+      },
+    {
+      "name": "hello",
+      "path": "hello.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "hello"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "mua",
+      "path": "mua.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "mua"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "宝贝在吗1",
+      "path": "宝贝在吗1.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "宝贝在吗"
+      },
+      "category": "偷偷磕"
+    },
+    {
+      "name": "北黑必井",
+      "path": "北黑必井.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "北黑必井"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "搞二次元的前途是光明的",
+      "path": "搞二次元的前途是光明的.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "搞二次元的前途是光明的"
+      },
+      "category": "名言c"
+    },
+    {
+      "name": "哥哥~",
+      "path": "哥哥~.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "哥哥~"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "好恶心啊",
+      "path": "好恶心啊.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "好恶心啊"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "雷条粉肠",
+      "path": "雷条粉肠.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "雷条粉肠"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "纳尼2",
+      "path": "纳尼2.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "纳尼2"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "是个没用的东西",
+      "path": "是个没用的东西.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "是个没用的东西"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "是没有妈妈吗",
+      "path": "是没有妈妈吗.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "是没有妈妈吗"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你怎么骂人呢",
+      "path": "你怎么骂人呢.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "你怎么骂人呢"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你这种行为跟火箭队有什么区别吗",
+      "path": "你这种行为跟火箭队有什么区别吗.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "你这种行为跟火箭队有什么区别吗"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "你真粗鲁(夹)",
+      "path": "你真粗鲁(夹).mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "你真粗鲁(夹)"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "怒吼",
+      "path": "怒吼.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "怒吼"
+      },
+      "category": "语气"
+    },
+    {
+      "name": "皮痒了",
+      "path": "皮痒了.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "皮痒了"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "让它扭曲恶堕",
+      "path": "让它扭曲恶堕.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "让它扭曲恶堕"
+      },
+      "category": "怪话c"
+    },
+    {
+      "name": "什么时候去生宝宝",
+      "path": "什么时候去生宝宝.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "什么时候去生宝宝"
+      },
+      "category": "怪话c"
+    },
+    {
+      "name": "生日祝福(夹)",
+      "path": "生日祝福(夹).mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "生日祝福(夹)"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "虽然你是个废物但我还是喜欢你哦",
+      "path": "虽然你是个废物但我还是喜欢你哦.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "虽然你是个废物但我还是喜欢你哦"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "晚上好",
+      "path": "晚上好.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "晚上好"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "我爱你，我是这个世界上唯一爱你的",
+      "path": "我爱你，我是这个世界上唯一爱你的.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "我爱你，我是这个世界上唯一爱你的"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "谢谢honey",
+      "path": "谢谢honey.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "谢谢honey"
+      },
+      "category": "偷偷磕"
+    },
+    {
+      "name": "永远18岁(夹)",
+      "path": "永远18岁(夹).mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "永远18岁(夹)"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "有人在吗",
+      "path": "有人在吗.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "有人在吗"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "上大师(夹)",
+      "path": "上大师(夹).mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "上大师(夹)"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "最后一把",
+      "path": "最后一把.mp3",
+      "date": "2023-10-28",
+      "translate": {
+        "zh-CN": "最后一把"
+      },
+      "category": "可爱c"
+    }
   ]
 }
