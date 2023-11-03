@@ -93,7 +93,7 @@ a
 .index
   margin 0 auto
   width 100%
-  background-image linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('../assets/image/xrb_background.jpg')
+  background-image linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://i.niupic.com/images/2023/11/03/bZ9j.jpg')
   background-position center center
   background-size cover
 
