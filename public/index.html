@@ -13,6 +13,12 @@
      <!-- 下方为百度搜索接入 -->
      <!-- 上方为网页特效 -->
      <title>小肉包按钮</title>
+     <% if (process.env.NODE_ENV === 'production') { %>
+      <script src="https://cdn.jsdelivr.net/npm/vue@3.2.36/dist/vue.global.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/vue-i18n@9.2.0-beta.35/dist/vue-i18n.global.min.js"></script>
+      <script src="https://cdn.jsdelivr.net/npm/element-plus@2.2.2/dist/index.full.min.js"></script>
+      <link href="https://cdn.jsdelivr.net/npm/element-plus@2.2.2/dist/index.min.css" rel="stylesheet">
+    <% } %>
      <!-- Global site tag (gtag.js) - Google Analytics -->
 <!--下方为google统计接入-->
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-XFVLS8NZ17"></script>

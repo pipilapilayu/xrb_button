@@ -75,7 +75,9 @@ module.exports = {
       performance: {
         hints: false
       },
-      plugins: process.env.NODE_ENV === 'production' ? [] : [
+      plugins: process.env.NODE_ENV === 'production' ? [new BundleAnalyzerPlugin({
+        generateStatsFile: false
+      })] : [
         new BundleAnalyzerPlugin({
           generateStatsFile: false
         }),
@@ -87,6 +89,11 @@ module.exports = {
           resolvers: [ElementPlusResolver()]
         })
       ],
+      externals: process.env.NODE_ENV === 'production' ? {
+        vue: 'Vue',
+        'vue-i18n': 'VueI18n',
+        'element-plus': 'ElementPlus'
+      } : {},
       optimization: {
         splitChunks: {
           chunks: 'all',
