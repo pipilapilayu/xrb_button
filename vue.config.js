@@ -75,7 +75,17 @@ module.exports = {
       performance: {
         hints: false
       },
-      plugins: process.env.NODE_ENV === 'production' ? [] : [
+      plugins: process.env.NODE_ENV === 'production' ? [new BundleAnalyzerPlugin({
+        generateStatsFile: false
+      }),
+      new SimpleProgressWebpackPlugin(),
+      AutoImport({
+        resolvers: [ElementPlusResolver()]
+      }),
+      Components({
+        resolvers: [ElementPlusResolver()]
+      })
+    ] : [
         new BundleAnalyzerPlugin({
           generateStatsFile: false
         }),
