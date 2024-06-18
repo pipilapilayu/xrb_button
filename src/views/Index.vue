@@ -93,7 +93,7 @@ a
 .index
   margin 0 auto
   width 100%
-  background-image linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://i.niupic.com/images/2023/11/03/bZ9j.jpg')
+  background-image linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('https://s21.ax1x.com/2024/06/18/pk05mkQ.jpg')
   background-position center center
   background-size cover
 
