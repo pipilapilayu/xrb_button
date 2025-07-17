@@ -1366,6 +1366,78 @@
         "zh-CN": "去你妈的SB给劳资滚"
       },
       "category": "攻击性"
-    }
+    },
+    {
+      "name": "色鬼",
+      "path": "色鬼.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "色鬼"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "啊啾",
+      "path": "啊啾.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "啊啾"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "宝宝",
+      "path": "c酱 宝宝-new.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "宝宝"
+      },
+      "category": "可爱c"
+    },
+    {
+      "name": "沸羊羊",
+      "path": "c酱 沸羊羊-new.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "沸羊羊"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "妈妈",
+      "path": "妈妈.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "妈妈"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "你是个没用的东西",
+      "path": "你是个没用的东西.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "你是个没用的东西"
+      },
+      "category": "攻击性"
+    },
+    {
+      "name": "让他扭曲恶堕",
+      "path": "让他扭曲恶堕.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "让他扭曲恶堕"
+      },
+      "category": "素材"
+    },
+    {
+      "name": "我都已经光屁股了",
+      "path": "我都已经光屁股了.mp3",
+      "date": "2025-07-17",
+      "translate": {
+        "zh-CN": "我都已经光屁股了"
+      },
+      "category": "素材"
+    },
   ]
 }
